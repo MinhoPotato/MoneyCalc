@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Money Calc
+PURPOSE OF PROJECT: A basic Calculator to calculate how much money a person makes in an hour, day, week, etc based on the information given
+VERSION or DATE: 1.0
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Delaney Noel
 USER INSTRUCTIONS:
