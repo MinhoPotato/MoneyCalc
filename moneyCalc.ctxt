@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=moneyCalc
-comment0.text=\r\n\ Money\ Calc\ takes\ how\ much\ money\ you\ make\ in\ a\ month,\ year,\ week,\ hour\ and\ calcualtes\ it\r\n\ \r\n\ Delaney\ Noel\r\n\ 1/21/2024\r\n
+comment0.text=\r\n\ Money\ Calc\ takes\ how\ much\ money\ you\ make\ in\ a\ month,\ year,\ week,\ hour\ and\ calculates\ it\r\n\ \r\n\ Delaney\ Noel\r\n\ 1/21/2024\r\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment2.params=mainStage
@@ -9,4 +9,6 @@ comment3.params=
 comment3.target=javafx.scene.control.ComboBox\ currencies()
 comment4.params=
 comment4.target=javafx.scene.control.ComboBox\ times()
-numComments=5
+comment5.params=baseRate\ currency\ hoursPerWeek\ timeFrame
+comment5.target=javafx.scene.layout.VBox\ calculate(double,\ java.lang.String,\ double,\ java.lang.String)
+numComments=6
